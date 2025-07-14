@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently a sophomore at IIT Jodhpur, majoring in Computer Science Engineering, with a deep curiosity for tech and innovation!<br>💻 I’m actively exploring software development, AI, and building real-world projects to sharpen my skills.<br>💬 Always up for a collaboration!<br>📫 Connect with me on LinkedIn<br>⚡ I thrive on learning by doing and love diving into new challenges!</p>
+<p align="left">🌱 I’m currently a pre-final year student at IIT Jodhpur, majoring in Computer Science Engineering, with a deep curiosity for tech and innovation!<br>💻 I’m actively exploring software development, AI, and building real-world projects to sharpen my skills.<br>💬 Always up for a collaboration!<br>📫 Connect with me on LinkedIn<br>⚡ I thrive on learning by doing and love diving into new challenges!</p>
 
 ###
 
